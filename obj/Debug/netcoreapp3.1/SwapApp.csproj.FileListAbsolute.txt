@@ -1,0 +1,11 @@
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp.deps.json
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp.runtimeconfig.json
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp.runtimeconfig.dev.json
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp.dll
+/home/dani/Code/C#/SwapApp/bin/Debug/netcoreapp3.1/SwapApp.pdb
+/home/dani/Code/C#/SwapApp/obj/Debug/netcoreapp3.1/SwapApp.csprojAssemblyReference.cache
+/home/dani/Code/C#/SwapApp/obj/Debug/netcoreapp3.1/SwapApp.AssemblyInfoInputs.cache
+/home/dani/Code/C#/SwapApp/obj/Debug/netcoreapp3.1/SwapApp.AssemblyInfo.cs
+/home/dani/Code/C#/SwapApp/obj/Debug/netcoreapp3.1/SwapApp.dll
+/home/dani/Code/C#/SwapApp/obj/Debug/netcoreapp3.1/SwapApp.pdb
